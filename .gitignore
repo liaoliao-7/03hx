@@ -1,0 +1,7 @@
+/build/
+/dist/
+/vhx/
+/.idea/
+*.xlsx
+/__pycache__/
+/03hx/
