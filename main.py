@@ -191,7 +191,6 @@ class MainWindow(QMainWindow, Ui_Form):
             onefilename = files[0].split("/")[-1]
         except:
             pass
-        print(onefilename)
         return files, onefilename
 
     # def btn_clicked(self):
